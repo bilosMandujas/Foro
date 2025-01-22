@@ -1,1 +1,1 @@
-Desarrollo de aplicacion en desarrollo
+Desarrollo de aplicacion aun no finalizada
